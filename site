@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inspiração de Amor para Minha Amada</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+        }
+        header {
+            background-color: #ff4d4d;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #ff8080;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+        footer {
+            background-color: #ff4d4d;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .poem {
+            font-style: italic;
+            font-size: 20px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Inspiração de Amor para Minha Amada</h1>
+</header>
+
+<nav>
+    <a href="#poem">Poema de Amor</a>
+    <a href="#quote">Citação Romântica</a>
+    <a href="#gift">Ideias de Presentes</a>
+</nav>
+
+<section id="poem">
+    <h2>Poema de Amor</h2>
+    <p class="poem">"Se cada vez que eu pensasse em você uma estrela se apagasse, o céu estaria negro, mas eternamente iluminado pelo brilho do nosso amor."</p>
+</section>
+
+<section id="quote">
+    <h2>Citação Romântica</h2>
+    <p>"O amor não consiste em olhar um para o outro, mas sim em olhar juntos na mesma direção." - Antoine de Saint-Exupéry</p>
+</section>
+
+<section id="gift">
+    <h2>Ideias de Presentes</h2>
+    <ul>
+        <li>Flores</li>
+        <li>Um jantar romântico à luz de velas</li>
+        <li>Um scrapbook personalizado com lembranças especiais</li>
+        <li>Uma carta de amor escrita à mão</li>
+    </ul>
+</section>
+
+<footer>
+    <p>&copy; 2024 Inspiração de Amor para Minha Amada</p>
+</footer>
+
+</body>
+</html>
